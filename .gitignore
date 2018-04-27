@@ -1,5 +1,7 @@
 /target
-.project
-.gitattributes
+.git/
+.settings/
 .classpath
-/.settings
+.myumldata
+.project
+testFile.log
