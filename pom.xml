@@ -8,7 +8,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <properties>
-  		<spring.versioin>4.2.6.RELEASE</spring.versioin>
+  		<spring.versioin>4.3.18.RELEASE</spring.versioin>
 	  	<junit.version>4.12</junit.version>
 	  	 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
   </properties>
